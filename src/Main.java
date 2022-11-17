@@ -25,6 +25,6 @@ public class Main {
         fullName3 = fullName3.replace("ё", "е");
         System.out.println("ФИО сотрудника - " + fullName3);
 
-
+        System.out.println("почему с первого раза не получается сделать Pull requests?");
     }
 }
